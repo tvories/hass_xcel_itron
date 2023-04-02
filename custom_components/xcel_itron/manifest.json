@@ -1,0 +1,11 @@
+{
+  "codeowners": ["tvories"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/tvories/hass_xcel_itron",
+  "domain": "xcel_itron",
+  "iot_class": "local_polling",
+  "name": "Xcel Itron Smart Meter Integration",
+  "requirements": [],
+  "version": "0.1.0"
+}
